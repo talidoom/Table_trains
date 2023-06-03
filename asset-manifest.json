@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Table_trains/static/css/main.faa2de03.css",
+    "main.js": "/Table_trains/static/js/main.caaca33d.js",
+    "index.html": "/Table_trains/index.html",
+    "main.faa2de03.css.map": "/Table_trains/static/css/main.faa2de03.css.map",
+    "main.caaca33d.js.map": "/Table_trains/static/js/main.caaca33d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faa2de03.css",
+    "static/js/main.caaca33d.js"
+  ]
+}
