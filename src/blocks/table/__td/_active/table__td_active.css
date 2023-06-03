@@ -1,0 +1,8 @@
+.table__td_active {
+    border: 1px solid #59646d;
+    text-align: center;
+    padding: 3px 5px;
+    background-color: #59646d;
+    border-radius: 10px;
+    color: #fff;
+}

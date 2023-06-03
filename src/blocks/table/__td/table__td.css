@@ -1,0 +1,14 @@
+.table__td {
+    border: 1px solid #DCDCDC;
+    text-align: center;
+    padding: 3px 5px;
+    background-color: #fff;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.table__td:hover {
+    background-color: #DCDCDC;
+    border-color: #fff;
+}
+
